@@ -6,6 +6,9 @@ web/app/upgrade
 web/app/uploads/*
 !web/app/uploads/.gitkeep
 
+#Images
+web/app/themes/Travel-Agency/Images/*
+
 # WordPress
 web/wp
 web/.htaccess
